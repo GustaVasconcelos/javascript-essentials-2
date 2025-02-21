@@ -1,0 +1,14 @@
+# Tipos de dados primitivos
+
+São aqueles tipos de dados simples por conta que não são compostos e não podem ser divididos
+em partes menores
+
+exemplos:
+
+number
+boolean
+string
+
+#Tipos de dados complexos
+
+São aqueles tipos de dados onde possuem complexidades, podendo armazenar mais de um valor

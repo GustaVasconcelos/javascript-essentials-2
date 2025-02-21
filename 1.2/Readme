@@ -1,0 +1,7 @@
+# Maneira básica de criar objetos
+
+Notação literal é a forma mais simples e comum de criar um objeto, inicializado o objetos usando chaves
+
+#Garbage Collector
+
+É um mecanismo do javascript que decide por nós se o objeto ainda são necessários e possivelmente os removes

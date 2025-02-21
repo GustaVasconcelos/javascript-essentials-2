@@ -1,0 +1,11 @@
+# tipos
+
+Podemos atribuir valores de qualquer tipos nas propriedades do objeto
+
+# propriedades alinhas
+
+Se a propriedade de um objeto possui propriedades próprias, então estamos lidando com propriedades alinhadas
+
+# Uma função como um tipo de propriedade 
+
+Uma função que é propriedade de um objeto é chamada de método
